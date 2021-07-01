@@ -1,0 +1,7 @@
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\Wheel ofFortune\obj\Debug\Wheel ofFortune.csproj.AssemblyReference.cache
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\Wheel ofFortune\obj\Debug\Wheel ofFortune.csproj.CoreCompileInputs.cache
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\Wheel ofFortune\bin\Debug\Wheel ofFortune.exe.config
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\Wheel ofFortune\bin\Debug\Wheel ofFortune.exe
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\Wheel ofFortune\bin\Debug\Wheel ofFortune.pdb
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\Wheel ofFortune\obj\Debug\Wheel ofFortune.exe
+C:\Users\NATEA\OneDrive\Desktop\ClassWork\00TypesandVariables\Wheel ofFortune\obj\Debug\Wheel ofFortune.pdb
